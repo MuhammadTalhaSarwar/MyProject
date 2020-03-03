@@ -1,0 +1,4 @@
+{"name":"USSD","hostname":"DESKTOP-6TO6G1L","pid":3240,"level":30,"msg":"923104138114----->BeepCall,CMT,FFM,PoolData,JMCP,PBX,CDRBilling,Colgate,MWIFI,SMPP","time":"2019-11-19T09:39:26.093Z","v":0}
+{"name":"USSD","hostname":"DESKTOP-6TO6G1L","pid":3240,"level":30,"msg":"923104138114----->BeepCall,CMT,FFM,PoolData,JMCP,PBX,CDRBilling,Colgate,MWIFI,SMPP","time":"2019-11-19T09:39:29.929Z","v":0}
+{"name":"USSD","hostname":"DESKTOP-6TO6G1L","pid":3240,"level":30,"msg":"923104138114----->BeepCall,CMT,FFM,PoolData,JMCP,PBX,CDRBilling,Colgate,SMPP","time":"2019-11-19T09:39:57.688Z","v":0}
+{"name":"USSD","hostname":"DESKTOP-6TO6G1L","pid":3240,"level":30,"msg":"923104138114----->BeepCall,CMT,FFM,PoolData,JMCP,PBX,CDRBilling,Colgate","time":"2019-11-19T09:40:24.370Z","v":0}
